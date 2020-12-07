@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hey I am a pirate
+Please leave now if you are not okay to new things.
+- 🔭 I’m currently working on cs50
+- 🌱 I’m currently learning Django
+- 💬 Ask me about anything you want
+- 📫 How to reach me: can@gurbuz.co || john@galba.co 
+- ⚡ Fun fact: I love potato
+
 
 <!--
 **tpirate/tpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
