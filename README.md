@@ -12,6 +12,16 @@
 - Office :clipboard:
 - My friend group :sunglasses:
 - And my dog :dog:
+
+# Python Fan 
+## Skillset:
+- Django :star2:
+- Flask :sweat_drops:
+- Python3 🐍
+- Ruby :heart:
+- HTML, CSS, Javascript :muscle:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **tpirate/tpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
