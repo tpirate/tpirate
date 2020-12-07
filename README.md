@@ -5,9 +5,13 @@
 - 🌱 I’m currently learning Django
 - 💬 Ask me about anything you want
 - 📫 How to reach me: can@gurbuz.co || john@galba.co 
-- ⚡ Fun fact: I love potato
+- ⚡ Fun fact: I love potato :sunglasses:
 
-
+## Things that I love
+- As you might know or guess Portal :milky_way:
+- Office :clipboard:
+- My friend group :sunglasses:
+- And my dog :dog:
 <!--
 **tpirate/tpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
