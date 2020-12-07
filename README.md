@@ -21,7 +21,8 @@
 - Ruby :heart:
 - HTML, CSS, Javascript :muscle:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tpirate&theme=dark&show_icons=true)
 <!--
 **tpirate/tpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
