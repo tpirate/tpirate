@@ -1,5 +1,6 @@
-## Hey I am a pirate
-Please leave now if you are not okay to new things.
+# Hey It's me Can
+#### "No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response."
+#### "Did you know you can donate one or all of your vital organs to the Aperture Science self esteem fund for girls? It's true!"
 - 🔭 I’m currently working on cs50
 - 🌱 I’m currently learning Django
 - 💬 Ask me about anything you want
