@@ -7,11 +7,6 @@
 - 📫 How to reach me: can@gurbuz.co || john@galba.co 
 - ⚡ Fun fact: I love potato :sunglasses:
 
-## Things that I love
-- As you might know or guess Portal :milky_way:
-- Office :clipboard:
-- And my dog :dog:
-
 # Python Fan 
 ## Skillset:
 - Django :star2:
