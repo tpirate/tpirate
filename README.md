@@ -10,7 +10,6 @@
 ## Things that I love
 - As you might know or guess Portal :milky_way:
 - Office :clipboard:
-- My friend group :sunglasses:
 - And my dog :dog:
 
 # Python Fan 
