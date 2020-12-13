@@ -4,8 +4,7 @@
 - 🔭 I’m currently working on cs50
 - 🌱 I’m currently learning Django
 - 💬 Ask me about anything you want
-- 📫 How to reach me: can@gurbuz.co || john@galba.co 
-- ⚡ Fun fact: I love potato :sunglasses:
+- 📫 How to reach me: can@gurbuz.co || john@galba.co
 
 # Python Fan 
 ## Skillset:
