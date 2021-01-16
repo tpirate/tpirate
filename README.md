@@ -6,7 +6,7 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: can@gurbuz.co || john@galba.co
 
-# Python Fan 
+# Pythonic Fan 
 ## Skillset:
 - Django :star2:
 - Flask :sweat_drops:
