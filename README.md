@@ -6,14 +6,6 @@
 - 💬 Ask me about anything you want
 - 📫 How to reach me: can@gurbuz.co || john@galba.co
 
-# Pythonic Fan 
-## Skillset:
-- Django :star2:
-- Flask :sweat_drops:
-- Python3 🐍
-- Ruby :heart:
-- HTML, CSS, Javascript :muscle:
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tpirate&theme=dark&show_icons=true)
 <!--
