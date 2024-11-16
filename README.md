@@ -2,9 +2,9 @@
 #### "No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response."
 #### "Did you know you can donate one or all of your vital organs to the Aperture Science self esteem fund for girls? It's true!"
 - 🔭 I’m currently working on personal projects. 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning ASM and malware coding. 
 - 💬 Ask me about anything you want
-- 📫 How to reach me: can@gurbuz.co || john@galba.co
+- 📫 How to reach me: can@gurbuz.co || fikret.gurbuz@std.bogazici.edu.tr
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tpirate&theme=dark&show_icons=true)
