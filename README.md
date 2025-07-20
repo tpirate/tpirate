@@ -1,7 +1,7 @@
 # Hey It's me Can
 #### "No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response."
-#### "Did you know you can donate one or all of your vital organs to the Aperture Science self esteem fund for girls? It's true!"
-- 🔭 I’m currently working on personal projects. 
+#### "You met me at a very strange time in my life"
+- 🔭 I’m currently working on personal and some not yet announced projects.
 - 🌱 I’m currently learning ASM and malware coding. 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: can@gurbuz.co || fikret.gurbuz@std.bogazici.edu.tr
