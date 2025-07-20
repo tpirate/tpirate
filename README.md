@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning ASM and malware coding. 
 - 💬 Ask me about anything you want
 - 📫 How to reach me: can@gurbuz.co || fikret.gurbuz@std.bogazici.edu.tr
-
+- ⚡ Fun fact: I lost all hope and sanity years ago trying to learn cybersecurity. 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tpirate&theme=dark&show_icons=true)
 <!--
