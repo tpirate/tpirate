@@ -1,25 +1,20 @@
-# Hey It's me Can
-#### "No one will blame you for giving up. In fact, quitting at this point is a perfectly reasonable response."
-#### "You met me at a very strange time in my life"
-- 🔭 I’m currently working on personal and some not yet announced projects.
-- 🌱 I’m currently learning ASM and malware coding. 
-- 💬 Ask me about anything you want
-- 📫 How to reach me: can@gurbuz.co || fikret.gurbuz@std.bogazici.edu.tr
-- ⚡ Fun fact: I lost all hope and sanity years ago trying to learn cybersecurity.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tpirate&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=tpirate&theme=dark&show_icons=true)
-<!--
-**tpirate/tpirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ ,ggggggggggggggg                                                    
+dP""""""88"""""""                                      I8            
+Yb,_    88                                             I8            
+ `""    88               gg                         88888888         
+        88               ""                            I8            
+        88  gg,gggg,     gg    ,gggggg,    ,gggg,gg    I8     ,ggg,  
+        88  I8P"  "Yb    88    dP""""8I   dP"  "Y8I    I8    i8" "8i 
+  gg,   88  I8'    ,8i   88   ,8'    8I  i8'    ,8I   ,I8,   I8, ,8I 
+   "Yb,,8P ,I8 _  ,d8' _,88,_,dP     Y8,,d8,   ,d8b, ,d88b,  `YbadP' 
+     "Y8P' PI8 YY88888P8P""Y88P      `Y8P"Y8888P"`Y888P""Y88888P"Y888
+            I8                                                       
+            I8                                                       
+            I8                                                       
+            I8                                                       
+            I8                                                       
+            I8                                                       
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+welcome to my cave...
